@@ -1,0 +1,43 @@
+body {
+	font-family: Helvetica   ;
+}
+
+#header {
+	text-align: center;
+	background: rgb(0,31,255);
+	background: linear-gradient(90deg, rgba(0,31,255,1) 0%, rgba(30,26,84,1) 25%, rgba(46,51,135,1) 50%, rgba(27,34,89,1) 75%, rgba(0,0,255,1) 100%, rgba(29,0,255,1) 100%);
+	color: white;
+	border: 1px solid black;
+}
+
+#aside1 {
+	background: rgb(0,0,0);
+	background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(2,0,36,1) 24%, rgba(9,9,121,1) 65%, rgba(29,0,255,1) 100%);
+	color: white;
+	border: 1px solid black;
+}
+
+#main2 {
+	background: rgb(29,0,255);
+	background: linear-gradient(90deg, rgba(29,0,255,1) 0%, rgba(9,9,121,1) 20%, rgba(2,0,36,1) 41%, rgba(0,0,0,1) 100%);
+	color: white;
+	border: 1px solid black;
+}
+
+#mes_contacte {
+	color: blue;
+}
+
+#aside2 {
+	background: rgb(0,0,0);
+	background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(2,0,36,1) 24%, rgba(9,9,121,1) 65%, rgba(29,0,255,1) 100%);
+	color: white;
+	border: 1px solid black;
+}
+
+#main1 {
+	background: rgb(29,0,255);
+	background: linear-gradient(90deg, rgba(29,0,255,1) 0%, rgba(9,9,121,1) 20%, rgba(2,0,36,1) 41%, rgba(0,0,0,1) 100%);
+	color: white;
+	border: 1px solid black;
+}
